@@ -1,4 +1,4 @@
-# Algorithms_Repo
+# Algorithms
 
 Algorithms are written in C++.
 Project can be opened in visual studio or src files can be copied seperatly into your project.
