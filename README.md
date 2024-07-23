@@ -1,5 +1,7 @@
 # Algorithms_Repo
-Repo holding algorithms files.
+
+Algorithms are written in C++.
+Project can be opened in visual studio or src files can be copied seperatly into your project.
 
 Algorithms written so far:
 - Quick Sort Algorithm - Quicksort.cpp
