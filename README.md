@@ -5,7 +5,7 @@ Project can be opened in visual studio or src files can be copied seperatly into
 
 ## Note
 If you are using visual studio, include the relavent files into the project. 
-For example to test any greedy algorithm, include that file in visual studio solution explorer and exclude all other files, this has to be done currently cause all the files have a main function seperatly.
+For example to test a greedy algorithm, include that file in visual studio solution explorer and exclude all other files, currently this has to be done because all the files have a seperate main function. seperatly.
 
 ### Algorithms written so far
 - Quick Sort Algorithm - Quicksort.cpp
